@@ -1,0 +1,10 @@
+Certificate Monitoring Runbook
+
+The operations team must verify certificate expiry every morning.
+When a certificate has fewer than thirty days remaining, notify the
+application owner by email. If fewer than seven days remain and renewal
+has not started, create a P2 incident...
+
+Escalation Matrix
+
+The primary owner must respond within thirty minutes...
